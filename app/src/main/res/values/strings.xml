@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">my_first_app</string>
+    <string name="edit_message" translatable="false">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="Send">f</string>
+    <string name="save_scripture">Save scripture</string>
+</resources>
